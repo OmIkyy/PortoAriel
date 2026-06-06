@@ -1,0 +1,6 @@
+{
+  "name": "Ariel TKJ Portfolio",
+  "description": "Portofolio Interaktif TKJ dengan login sidik jari simulasi, musik latar otomatis, dan dashboard manajemen pemilik",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
